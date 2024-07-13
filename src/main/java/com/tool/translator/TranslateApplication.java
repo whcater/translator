@@ -7,6 +7,9 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/*
+Translate Tool App
+ */
 public class TranslateApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
